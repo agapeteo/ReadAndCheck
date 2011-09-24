@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="labelInfo">Reading for</string>
+    <string name="dateText">Today</string>
+    <string name="oldTestament">Genesis 1, 2, 3</string>
+    <string name="newTestament">Mattew 1</string>
+    <string name="buttonDone">Done</string>
+    <string name="buttonPreferences">Preferences</string>
+    <string name="app_name">ReadAndCheck</string>
+    <string name="rbOtText">OT</string>
+    <string name="rbNtText">NT</string>
+    <string name="textCompletedDays">I did: </string>
+    <string name="textMissedDays">I missed: </string>
+    <string name="textPeopleDid">How many people did it today: </string>
+   
+</resources>
